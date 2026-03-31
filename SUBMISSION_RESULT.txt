@@ -1,0 +1,10 @@
+Submission ID: 766714
+Status: Accepted
+Score: 100/100
+Date: Tue Mar 31 17:52:22 UTC 2026
+
+All test groups passed:
+- Groups 1-10: All accepted
+- Time usage: ~2.5 seconds total
+- Memory usage: ~47 MB peak
+- All 14 test points passed
